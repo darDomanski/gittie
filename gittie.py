@@ -6,3 +6,6 @@ def addition(a,b)
 
 def joke():
     print("Dlaczego wróbelek? Bo jedną nóżkę ma bardzej!")
+
+def shout():
+    print("GITHUB IS MY LIFE!!!")
